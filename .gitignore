@@ -1,0 +1,19 @@
+# This is a PUBLIC repo (required for free GitHub Pages), so it must contain
+# ONLY the password-encrypted page (index.html). Everything below is plaintext
+# source kept out of the repo so the un-protected design is never world-readable.
+
+/site/
+/share/
+/encrypted/
+/uploads/
+/assets/
+/Dura Care.html
+/rain.js
+/tweaks-panel.jsx
+.staticrypt.json
+
+# macOS / editor junk
+.DS_Store
+.thumbnail
+*.swp
+Thumbs.db
